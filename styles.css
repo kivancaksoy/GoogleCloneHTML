@@ -25,3 +25,10 @@ input {
   justify-content: center;
   align-items: center;
 }
+
+#mysearchbar {
+  width: 700px;
+	border-radius: 25px;
+	border-width: 1px;
+
+}
