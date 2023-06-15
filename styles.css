@@ -1,0 +1,27 @@
+main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+  
+  .form-google {
+    max-width: 600px;
+    padding: 1rem;
+  }
+
+.image-style {
+  width: "272"; 
+  height: "92";
+}
+
+
+input {
+    max-width: 600px;
+}
+
+.container-center-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
